@@ -59,7 +59,7 @@ Skills
   * Microsoft Office
   * WinEdt (LaTex)
 * Operating systems 
- * Windows operating systems (server 2003, XP, 7, 8, 10), Completely familiar
+  * Windows operating systems (server 2003, XP, 7, 8, 10), Completely familiar
 with Linux (Ubuntu)
 
 Publications
