@@ -17,24 +17,50 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Jan 2019: Research Assistant
+  * Iran University of Science & Technology
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Dr Amirhossein Shokouhi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Dec 2018: Lecturer
+  * Islamic Azad University
+  * Duties included: Teaching Network Engineering, Data Structure to bachelors' student
   
+* Aug 2017 - Feb 2019: DevOps Engineer
+ * ClickTahvil.ir
+ * Duties included: Programming
+ 
+* Sep 2017 - Apr 2018: System Administrator
+ * MihanTech
+ * Duties included: Install and configure software and hardware
+
+* 2016 - 2017: Web Developer
+ * Iran361
+ * Duties included: Programming
+
+* Feb 2015 - Sep 2017: Technical Support Customer
+ * Shatel
+ * Duties included: The customer service team are highly trained experts, who are able to help customers and patiently solve their problems, at the shortest possible time. 
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+ * Python (Working knowledge)
+ * Java (Working knowledge) 
+ * C++ (Working knowledge)
+ * SQL (Working knowledge)
+* Tools 
+  * PyDev
+  * Django
+  * Eclipse
+  * Rapid miner
+  * Weka
+  * Borland C++Builder
+  * Microsoft Office
+  * WinEdt (LaTex)
+* Operating systems
+ * Windows operating systems (server 2003, XP, 7, 8, 10), Completely familiar
+with Linux (Ubuntu)
 
 Publications
 ======
