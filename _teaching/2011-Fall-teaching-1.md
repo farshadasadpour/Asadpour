@@ -1,5 +1,5 @@
 ---
-title: Advance Programming"
+title: "Advance Programming"
 collection: teaching
 type: "Bachlor course"
 permalink: /teaching/2011-Fall-teaching-1
