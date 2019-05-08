@@ -17,40 +17,40 @@ Education
 
 Work experience
 ======
-* Jan 2019: Research Assistant
-  * Iran University of Science & Technology
-  * Duties included: Tagging issues
-  * Supervisor: Dr Amirhossein Shokouhi
+* Jan 2019: Research Assistant 
+  * Iran University of Science & Technology 
+  * Duties included: Tagging issues 
+  * Supervisor: Dr Amirhossein Shokouhi 
 
-* Dec 2018: Lecturer
-  * Islamic Azad University
-  * Duties included: Teaching Network Engineering, Data Structure to bachelors' student
+* Dec 2018: Lecturer 
+  * Islamic Azad University 
+  * Duties included: Teaching Network Engineering, Data Structure to bachelors' student 
   
 
-* Aug 2017 - Feb 2019: DevOps Engineer
- * ClickTahvil.ir
- * Duties included: Programming
+* Aug 2017 - Feb 2019: DevOps Engineer 
+ * ClickTahvil.ir 
+ * Duties included: Programming 
  
 
-* Sep 2017 - Apr 2018: System Administrator
- * MihanTech
- * Duties included: Install and configure software and hardware
+* Sep 2017 - Apr 2018: System Administrator 
+ * MihanTech 
+ * Duties included: Install and configure software and hardware 
 
  
 
-* 2016 - 2017: Web Developer
- * Iran361
- * Duties included: Programming
+* 2016 - 2017: Web Developer 
+ * Iran361 
+ * Duties included: Programming 
 
  
-* Feb 2015 - Sep 2017: Technical Support Customer
- * Shatel
+* Feb 2015 - Sep 2017: Technical Support Customer 
+ * Shatel 
  * Duties included: The customer service team are highly trained experts, who are able to help customers and patiently solve their problems, at the shortest possible time. 
  
  
 Skills
 ======
-* Programming
+* Programming 
  * Python (Working knowledge)
  * Java (Working knowledge) 
  * C++ (Working knowledge)
@@ -64,7 +64,7 @@ Skills
   * Borland C++Builder
   * Microsoft Office
   * WinEdt (LaTex)
-* Operating systems
+* Operating systems 
  * Windows operating systems (server 2003, XP, 7, 8, 10), Completely familiar
 with Linux (Ubuntu)
 
