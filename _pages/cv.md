@@ -27,20 +27,20 @@ Work experience
   * Duties included: Teaching Network Engineering, Data Structure to bachelors' student 
 
 * Aug 2017 - Feb 2019: DevOps Engineer 
- * ClickTahvil.ir 
- * Duties included: Programming 
+  * ClickTahvil.ir 
+  * Duties included: Programming 
 
 * Sep 2017 - Apr 2018: System Administrator 
- * MihanTech 
- * Duties included: Install and configure software and hardware 
+  * MihanTech 
+  * Duties included: Install and configure software and hardware 
 
 * 2016 - 2017: Web Developer 
- * Iran361 
- * Duties included: Programming 
+  * Iran361 
+  * Duties included: Programming 
 
 * Feb 2015 - Sep 2017: Technical Support Customer 
- * Shatel 
- * Duties included: The customer service team are highly trained experts, who are able to help customers and patiently solve their problems, at the shortest possible time. 
+  * Shatel 
+  * Duties included: The customer service team are highly trained experts, who are able to help customers and patiently solve their problems, at the shortest possible time. 
 
 Skills
 ======
