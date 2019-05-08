@@ -45,10 +45,10 @@ Work experience
 Skills
 ======
 * Programming 
-  * Python(Working knowledge)
-  * Java(Working knowledge)
-  * C++(Working knowledge)
-  * SQL(Working knowledge)
+  * Python (Working knowledge)
+  * Java (Working knowledge)
+  * C++ (Working knowledge)
+  * SQL (Working knowledge)
 * Tools 
   * PyDev
   * Django
