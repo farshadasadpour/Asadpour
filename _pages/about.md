@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 As a fully qualified Programmer and professional expert in Computer Science. with over 5 years of varied experience including; consulting, programming, researching, administration, and Teaching, there's much I can offer to the education, training and handling many responsibilities in aforementioned sectors. I will have MSc in Management Information system Engineering from Islamic Azad University of Ashtian University and my final thesis was an authentication method; based on symmetric cryptography; for internet of things systems, BSc in information system from Islamic Azad University of Zanjan. I have a background of working in Programming for 5 years with a lot of successful achievements. With my experience and credentials, I am well prepared to dedicate myself to the highest standards of leading a team in many aspects of working on my own. 
+
 My research journey in Master program started by working on a project that attempted to Internt of thing. The work yield an accepted paper in [The International Conference for  International Conference on Soft Computing and Data Mining (SCDM 2018)](https://link.springer.com/conference/scdm), Johor, Malaysia, February 06-07, 2018 that has been nominated for best paper. I was working mainly on the part of this work that focused on Internt of things.
 
 Internet Of Things
