@@ -6,5 +6,5 @@ collection: portfolio
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
-https://api.github.com/users/farshadasadpour/repos?[*]%20|%20reverse(sort_by(@,%20&created_at))%20|%20[*].name
+
 
