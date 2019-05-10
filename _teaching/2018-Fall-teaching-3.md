@@ -8,13 +8,18 @@ date: 2018-01-01
 location: "Zanjan, Iran"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course is an introduction to the fundamentals of computer programming, which is the foundation of Computer Science. Students design, write, and debug computer programs. No prior knowledge of programming is assumed.
 
-Heading 1
+Lecture Topics
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+-Introduction to Programming Languages
+-Python Basics
+-Variables and Data Types
+-Control Structures
+-Repetition Structures
+-Functions and Modules
+-Strings
+-Lists
+-File Input and Output
+-Dictionaries
+-Object-Oriented Programmin

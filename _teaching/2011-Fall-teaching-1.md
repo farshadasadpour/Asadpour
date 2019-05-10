@@ -8,13 +8,6 @@ date: 2011-01-01
 location: "Zanjan, Iran"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Course Description
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+This course extends the study of basic programming principles introduced in Programming Fundamentals. Advanced concepts of program design, implementation and testing will be introduced within a framework of object oriented programming using the Java programming language
