@@ -13,7 +13,7 @@ This course is an introduction to the fundamentals of computer programming, whic
 Lecture Topics
 ======
 - [ ] Introduction to Programming Languages
-- [ ]Python Basics
+- [ ] Python Basics
 - [ ] Variables and Data Types
 - [ ] Control Structures
 - [ ] Repetition Structures
