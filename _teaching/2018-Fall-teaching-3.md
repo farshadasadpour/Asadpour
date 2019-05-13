@@ -12,14 +12,14 @@ This course is an introduction to the fundamentals of computer programming, whic
 
 Lecture Topics
 ======
-[] Introduction to Programming Languages
-[]Python Basics
-[] Variables and Data Types
-[] Control Structures
-[] Repetition Structures
-[] Functions and Modules
-[] Strings
-[] Lists
-[] File Input and Output
-[] Dictionaries
-[] Object-Oriented Programmin
+- [ ] Introduction to Programming Languages
+- [ ]Python Basics
+- [ ] Variables and Data Types
+- [ ] Control Structures
+- [ ] Repetition Structures
+- [ ] Functions and Modules
+- [ ] Strings
+- [ ] Lists
+- [ ] File Input and Output
+- [ ] Dictionaries
+- [ ] Object-Oriented Programmin

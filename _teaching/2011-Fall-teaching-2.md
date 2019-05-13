@@ -15,12 +15,12 @@ LEARNING OUTCOMES
 In order to pass the course, the students should be able to:
 
 
-[] Explain in a concise manner how the Internet is constructed and functions.
+- [ ] Explain in a concise manner how the Internet is constructed and functions.
 
-[] Reason about design choices at different layers in the TCP/IP protocol stack.
+- [ ] Reason about design choices at different layers in the TCP/IP protocol stack.
 
-[] Use standard tools to debug a network path.
+- [ ] Use standard tools to debug a network path.
 
-[] Theorize about establishing and maintaining communication at different levels of abstraction.
+- [ ] Theorize about establishing and maintaining communication at different levels of abstraction.
 
-[] Identify and discuss usual security issues regarding computer network protocols and applications.
+- [ ] Identify and discuss usual security issues regarding computer network protocols and applications.
