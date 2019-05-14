@@ -31,3 +31,7 @@ I am completely fluent in Turkish although my Native language is Persian. I part
 ## Study :
 
 I check the IT related news everyday on various websites; besides, I am also studying continuously about my own studying interests and brand-new innovations that are taking place throughout the world about my major and research topic from different sources. I have been also spending about 45 minutes a day reading books that are not especially related to my major for about 3 years. 
+
+## Sport :
+
+I love Doing Sport.
