@@ -14,11 +14,11 @@ Bachelor of Science (B.S.) degree programs in computer network engineering techn
 
 Students in computer network technology B.S. degree programs learn advanced methods used to create and maintain computer networks. Programs also instruct students on the theoretical concepts behind network design and the software used to store and transmit electronic information. Students often take the classes mentioned below:
 
-> Computer architecture
-> Microprocessor design
-> Database design
-> Computer operating systems
-> Electronic data transmission
+------------ | 
+Computer architecture | 
+Database design | 
+Computer operating systems | 
+
  
 ## Data Strucure
 covers analysis and design of fundamental data structures and engages learners to use data structures as tools to algorithmically design efficient computer programs that will cope with the complexity of actual applications.
